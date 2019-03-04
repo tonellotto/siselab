@@ -1,4 +1,4 @@
-# Sistemi di Elaborazione
+# Sistemi di Elaborazione (A.A. 2018/19)
 
 Sito Web del corso di "Sistemi di Elaborazione" (modulo di Architettura degli Elaboratori) del corso di laurea in Ingegneria delle Telecomunicazioni dell'Università di Pisa.
 
