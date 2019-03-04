@@ -20,7 +20,7 @@ Tutti questi prerequisiti sono soddisfatti dal corso di "Fondamenti di Informati
 
 ## Esame
 
-L'esame consiste una prova orale, composta da una prima parte sul modulo "Programmazione Avanzata in Ambiente UNIX" da compilare in forma scritta e da discutere con la commissione d'esame, seguita da una seconda parte sul module "Architetture degli Elaboratori" da discutere con la commissione d'esame.
+L'esame consiste una prova orale, composta da una prima parte sul modulo "Programmazione Avanzata in Ambiente UNIX" da compilare in forma scritta e da discutere con la commissione d'esame, seguita da una seconda parte sul modulo "Architetture degli Elaboratori" da discutere con la commissione d'esame.
 
 ## Lezioni
 
