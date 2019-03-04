@@ -18,6 +18,16 @@ Sito Web del corso di "Sistemi di Elaborazione" (modulo di Architettura degli El
 
 Tutti questi prerequisiti sono soddisfatti dal corso di "Fondamenti di Informatica e Calcolatori" del primo anno.
 
+## Libro di testo
+
+David A. Patterson e John L. Hennessy
+
+**Struttura e progetto dei calcolatori**
+
+edito da Zanichelli (quarta edizione italiana condotta sulla quinta edizione americana)
+
+[<img src="https://staticmy.zanichelli.it/catalogo/assets/small/m40001.9788808352026.jpg">]
+
 ## Esame
 
 L'esame consiste una prova orale, composta da una prima parte sul modulo "Programmazione Avanzata in Ambiente UNIX" da compilare in forma scritta e da discutere con la commissione d'esame, seguita da una seconda parte sul modulo "Architetture degli Elaboratori" da discutere con la commissione d'esame.
