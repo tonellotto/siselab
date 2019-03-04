@@ -1,2 +1,1 @@
-# siselab
-Web site del corso di "Sistemi di Elaborazione" del corso di laurea in Ingegneria delle Telecomunicazioni dell'Università di Pisa
+Controllare il _branch_ dell'anno accademico d'interesse ([aa])(./tree/aa2019))
