@@ -16,7 +16,7 @@ Sito Web del corso di "Sistemi di Elaborazione" (modulo di Architettura degli El
 * Strutture dati e algoritmi di base
 * Concetti di sistemi operativi
 
-Tutti questi prerequisiti sono soddisfatti dal corso di "Fondamenti di Informatica e Sistemi Operativi" del primo anno.
+Tutti questi prerequisiti sono soddisfatti dal corso di "Fondamenti di Informatica e Calcolatori" del primo anno.
 
 ## Esame
 
