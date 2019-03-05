@@ -6,7 +6,7 @@ Sito Web del corso di "Sistemi di Elaborazione" (modulo di Architettura degli El
 * CFU: 6
 * Periodo: Secondo semestre
 * Lingua: Italiano
-* Lezioni: Lunedì 15:300--18:30 (SI3) e Martedì 16:30--18:30 (B23).
+* Lezioni: Lunedì 15:300 - 18:30 (SI3) e Martedì 16:30 - 18:30 (B23).
 * Orario di ricevimento: Dopo le lezioni o tramite appuntamento (presso il CNR)
 * Email: nicola [dot] tonellotto [at] isti [dot] cnr [dot] it
 
@@ -36,4 +36,4 @@ L'esame consiste una prova orale, composta da una prima parte sul modulo "Progra
 
 |Data|Orario|Argomenti|Slide|
 |:--:|:---------:|------|:----:|
-|04/03|15:30s-18:30|Introduzione, componenti di un calcolatore, livelli di astrazione. Prestazioni dei processori: latenza, throughput, speedup. Tempo di esecuzione e sue componenti: clock, IC, CPI. Esempi.|[PDF](slides/capitolo1.pdf)
+|04/03|15:30 - 18:30|Introduzione, componenti di un calcolatore, livelli di astrazione. Prestazioni dei processori: latenza, throughput, speedup. Tempo di esecuzione e sue componenti: clock, IC, CPI. Esempi.|[PDF](slides/capitolo1.pdf)
