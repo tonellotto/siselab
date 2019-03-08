@@ -6,7 +6,7 @@ Sito Web del corso di "Sistemi di Elaborazione" (modulo di Architettura degli El
 * CFU: 6
 * Periodo: Secondo semestre
 * Lingua: Italiano
-* Lezioni: Lunedì 15:300--18:30 (SI3) e Martedì 16:30--18:30 (B23).
+* Lezioni: Lunedì 15:30-18:30 (SI3) e Martedì 16:30 - 18:30 (B23).
 * Orario di ricevimento: Dopo le lezioni o tramite appuntamento (presso il CNR)
 * Email: nicola [dot] tonellotto [at] isti [dot] cnr [dot] it
 
