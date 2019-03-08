@@ -37,3 +37,4 @@ L'esame consiste una prova orale, composta da una prima parte sul modulo "Progra
 |Data|Orario|Argomenti|Slide|
 |:--:|:---------:|------|:----:|
 |04/03|15:30-18:30|Introduzione, componenti di un calcolatore, livelli di astrazione. Prestazioni dei processori: latenza, throughput, speedup. Tempo di esecuzione e sue componenti: clock, IC, CPI. Esempi.|[PDF](slides/capitolo1.pdf)
+|05/03|16:30-18:30|Esercizi sul calcolo delle prestazioni dei processori. Rappresentazione delle istruzioni: operazioni aritmetiche e operandi su registri. |[PDF](slides/capitolo2.1.pdf)
